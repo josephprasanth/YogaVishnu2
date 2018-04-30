@@ -1,0 +1,10 @@
+h1 {
+color: red;
+}
+
+#expertise-section {
+    background-color: aquamarine;
+    /* width: 30%; */
+    width: 300px;
+    height: 400px;
+}
